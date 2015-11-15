@@ -1,2 +1,2 @@
-# releases
+# Releases
 Release Candidate Apps
