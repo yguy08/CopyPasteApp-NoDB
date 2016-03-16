@@ -1,3 +1,7 @@
 #CopyPasteApp-NoDB
 
-For text used often and not frequently changed.
+Copy and Paste - Fast and in one place
+
+For use when mongoDb is not available
+
+Otherwise, see CopyPasteApp
