@@ -1,4 +1,4 @@
-#CopyPasteApp-NoDB
+#Copy Paste - No Database 
 
 Copy and Paste - Fast and in one place
 
